@@ -2,7 +2,7 @@
 
 Here, you can come and see the sorting algo for any integer array.
 
-You are given with three types of sorting methods:
+You are given with five types of sorting methods:
 
 bubble sort
 insertion sort
