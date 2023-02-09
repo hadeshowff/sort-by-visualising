@@ -1,4 +1,4 @@
-# sort-by-visualising
+# Sort-By-Visualising
 
 Here, you can come and see the sorting algo for any integer array.
 
