@@ -62,14 +62,14 @@ let simulate = (arr) => {
     
     var q = document.querySelector("#sortingAlgo")
     let algo = q.value
-    if(algo=="insertion")
+    if(algo === "insertion")
         insertionSort(arr)
-    else if(algo == "selection")
+    else if(algo === "selection")
         selectionSort(arr)
-    else if(algo == "bubble")
+    else if(algo === "bubble")
         bubbleSort(arr)   
-    else if(algo == "quick")
+    else if(algo === "quick")
         quickSort(arr)
-    else if(algo == "merge")
+    else if(algo === "merge")
         mergeSort(arr)
 }
