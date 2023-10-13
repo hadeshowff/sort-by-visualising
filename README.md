@@ -13,3 +13,5 @@ Quick sort
 
 
 You can visualize each step as it progresses to a sorted array.
+
+Along with that the project also ensures you to get to know with the sorting and sorting algorithms.
